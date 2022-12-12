@@ -5,7 +5,7 @@ body, html{
 
 header{
     height: 70px;
-    background-color: #282828;
+    background-color: orange;
     margin-top: 20px;
     margin-right: 2%;
     margin-left: 2%;
@@ -17,7 +17,7 @@ h1{
     float: left;
     margin-left: 2px;
     margin-top: 10px;
-    color: antiquewhite;
+    color: black;
 }
 
 ul{
@@ -33,13 +33,12 @@ li{
 
 a{
     text-align: center;
-    color: #ffffff;
+    color: black;
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1.2rem;
 }
 
 a:hover{
-    color: yellow;
     transition: 0.5s;
 }
