@@ -34,8 +34,7 @@ export default function Joblist(){
             {
                 listing.map(listing =>
         <ol>
-            <li><Link href={"#"} class="font-sans">{listing.companyname}-{listing.jobtitle}</Link></li>
-            <li><Link href={"#"} class="font-sans">{listing.companyname}-{listing.jobtitle}</Link></li>
+            <li><Link href={"/landesa"} class="font-sans">{listing.companyname}-{listing.jobtitle}</Link></li>
         </ol>
           )
             }

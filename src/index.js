@@ -8,6 +8,7 @@ import {
 import './index.css';
 import App from './App';
 import Joblist from './components/Joblist';
+import Landesa from './describtion/Landesa';
 import reportWebVitals from './reportWebVitals';
 
 const router = createBrowserRouter([
@@ -19,6 +20,11 @@ const router = createBrowserRouter([
   {
     path: "/joblist",
     element: <Joblist />
+  },
+
+  {
+    path: "/landesa",
+    element: <Landesa />
   },
 
 
