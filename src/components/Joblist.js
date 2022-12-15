@@ -30,12 +30,24 @@ export default function Joblist(){
   }, []);
     return (
         <>
-        <div class="mx-7  bg-slate-300 ">
+        <div className="joblist" class="mx-7 p-3">
             {
                 listing.map(listing =>
-        <ol>
-            <li><Link href={"/landesa"} class="font-sans">{listing.companyname}-{listing.jobtitle}</Link></li>
-        </ol>
+            <>
+            <h3> <Link to={"/landesa"} class="font-sans">{listing.companyname}-{listing.jobtitle}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname2}-{listing.jobtitle2}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname3}-{listing.jobtitle3}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname4}-{listing.jobtitle4}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname5}-{listing.jobtitle5}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname6}-{listing.jobtitle6}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname7}-{listing.jobtitle7}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname8}-{listing.jobtitle8}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname9}-{listing.jobtitle9}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname10}-{listing.jobtitle10}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname11}-{listing.jobtitle11}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname12}-{listing.jobtitle12}</Link></h3>
+            <h3> <Link href={"/landesa"} class="font-sans">{listing.companyname13}-{listing.jobtitle13}</Link></h3>
+           </>
           )
             }
           </div>

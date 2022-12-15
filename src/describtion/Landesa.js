@@ -5,10 +5,9 @@ export default function Landesa() {
     return (
         <>
         <Navbar />
-
-        <p>
-        I am here now.
-        </p>
+        <div>
+        <h1>Consultant for climate change fieldwork</h1>
+        </div>
         </>
         
     )
