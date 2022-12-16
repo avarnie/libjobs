@@ -10,6 +10,7 @@ import App from './App';
 import Joblist from './components/Joblist';
 import Landesa from './describtion/Landesa';
 import reportWebVitals from './reportWebVitals';
+import PastJob from './components/PastJob';
 
 const router = createBrowserRouter([
   {
@@ -25,6 +26,11 @@ const router = createBrowserRouter([
   {
     path: "/landesa",
     element: <Landesa />
+  },
+
+  {
+    path: "/pastjob",
+    element: <PastJob />
   },
 
 

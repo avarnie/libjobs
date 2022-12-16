@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import Navbar from "../components/navbar";
 
 export default function Landesa() {
@@ -43,9 +44,9 @@ provided by Landesa.</li>
 female) with a background in climate, natural resource management, rural development,
 agriculture, and/or gender research to facilitate focus group discussions with local
 communities and key informant interviews.</li>
-</ol>
+</ol><br />
 
-<p class="italic font-bold">Deliverables:</p><br />
+<p class="italic font-bold">Deliverables:</p>
 <ol>
     <li>Profiles/CVs of enumerators selected.</li>
     <li>Report on field team training</li>
@@ -54,9 +55,9 @@ communities and key informant interviews.</li>
 focus group discussions and key informant interviews from the three communities stored
 in a secure online folder provided by Landesa.
 </li>
-</ol>
+</ol><br />
 
-<em>Duration: 6-8 weeks, starting ideally in January 2023.</em>
+<em>Duration: 6-8 weeks, starting ideally in January 2023.</em><br />
 
 <p class="italic font-bold">Qualifications</p>
 <ol>
@@ -70,7 +71,13 @@ change adaptation, natural resource management, sustainable land use, and/or cli
     <li>Experience supervising fieldwork conducted by a team of enumerators and providing
 data quality control.</li>
 <li>Familiarity with Bong and Margibi counties is helpful, but not required.</li>
-</ol>
+</ol><br />
+
+<p>For more information please contact <em class="font-bold">0776043423 / 0886127380</em></p><br />
+<a href="https://forms.gle/mWXL6TuHnz1TTC9X7">
+<button type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Apply Now</button>
+</a>
+
 
         </div>
         </>
