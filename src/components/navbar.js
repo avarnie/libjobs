@@ -8,9 +8,9 @@ export default function Navbar() {
         <Link to={"/"}><h1>JOB LIB</h1></Link>
         <nav>
         <ul>
-            <li><input type="text" /></li>
-            <li><Link to={"#"}>Lastest Job</Link></li>
-            <li><Link to={"#"}>Past Job</Link></li>
+            <li class="inline-block px-20 py-40"><input type="text" /></li>
+            <li class="inline-block px-20 py-40"><Link to={"#"}>Lastest Job</Link></li>
+            <li class="inline-block px-20 py-40"><Link to={"#"}>Past Job</Link></li>
         </ul>
     </nav>
 </header>
