@@ -29,6 +29,49 @@ interventions and programming. The consultant will be responsible for implementi
 3 communities in Bong County and Margibi County.</p><br />
 
 <p class="italic font-bold">Main responsibilities:</p>
+<ol>
+    <li>Participate in briefings led by the Landesa Sr. Research and Evaluation Specialist on the
+data collection tools (I.e., community resource maps, risk ranking, key informant
+interviews).
+</li>
+    <li>Translate the data collection tools and research protocol from English into local
+languages, as necessary.</li>
+    <li>Visit potential sites in Bong and Margibi Counties to identify two communities in Bong
+County and one community in Margibi county for the research, according to criteria
+provided by Landesa.</li>
+    <li>Identify, hire, and manage a small team of four qualitative data collectors (2 male and 2
+female) with a background in climate, natural resource management, rural development,
+agriculture, and/or gender research to facilitate focus group discussions with local
+communities and key informant interviews.</li>
+</ol>
+
+<p class="italic font-bold">Deliverables:</p><br />
+<ol>
+    <li>Profiles/CVs of enumerators selected.</li>
+    <li>Report on field team training</li>
+    <li>Report on fieldwork conducted in the three communities.</li>
+    <li>Data outputs (i.e., detailed field notes, digitized community resource maps) from the
+focus group discussions and key informant interviews from the three communities stored
+in a secure online folder provided by Landesa.
+</li>
+</ol>
+
+<em>Duration: 6-8 weeks, starting ideally in January 2023.</em>
+
+<p class="italic font-bold">Qualifications</p>
+<ol>
+    <li>At least 5 years of experience conducting qualitative and/or participatory action research,
+such as community resource mapping and risk ranking tools. Experience conducting
+gender-sensitive research is a plus.
+</li>
+    <li>A degree in social science and a strong background in environmental studies, climate
+change adaptation, natural resource management, sustainable land use, and/or climatesmart agriculture.</li>
+    <li>Well-organized and responsible.</li>
+    <li>Experience supervising fieldwork conducted by a team of enumerators and providing
+data quality control.</li>
+<li>Familiarity with Bong and Margibi counties is helpful, but not required.</li>
+</ol>
+
         </div>
         </>
         
